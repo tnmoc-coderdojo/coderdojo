@@ -10,10 +10,12 @@ We recommend using the online version of Scratch https://scratch.mit.edu/ (you n
 
 We recommend using trinket https://trinket.io/ (you need to register to save projects) for projects that do not use pygame.
 
+For projects that use pygame, we recommend Thonny which you can download here:  https://thonny.org/ You can then follow these instructions to install pygame: https://github.com/thonny/thonny/wiki/InstallingPackages
+
 - Beginners - Turtle Race https://projects.raspberrypi.org/en/projects/turtle-race
 - Intermediate - Robo-trumps  https://projects.raspberrypi.org/en/projects/robo-trumps
 - Beginners - Guess the Number [Guess the Number PDF](../python/guessthenumber/guessthenumber.pdf) (based on https://inventwithpython.com/invent4thed/chapter3.html)
-- Intermediate - Dragon Realm [Dragon Realm PDF](../python/dragonrealm/dragongame.pdf)(based on https://inventwithpython.com/invent4thed/chapter5.html)
+- Intermediate - Dragon Realm [Dragon Realm PDF](../python/dragonrealm/dragongame.pdf) (based on https://inventwithpython.com/invent4thed/chapter5.html)
 - Intermediate/Advanced - Snake (needs pygame) [Snake PDF](../python/snake/Snake.pdf) [Snake skeleton code](../python/snake/skeleton.py)
 - Advanced - Pong (needs pygame) [Pong PDF](../python/pong/Pong.pdf) [Pong skeleton code](../python/pong.py)
 
