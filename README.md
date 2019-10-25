@@ -1,4 +1,4 @@
-## Scratch Projects
+## Scratch Projects.
 
 We recommend using the online version of Scratch https://scratch.mit.edu/ (you need to register to save projects) although you can also download an offline version here: https://scratch.mit.edu/download. If you already have the offline version installed, make sure it is an up-to-date version using Scratch 3 not Scratch 2.
 
