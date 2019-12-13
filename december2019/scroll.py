@@ -46,7 +46,8 @@ star1    = [_,_,_,_,_,_,_,_,
 
 for n in range(80):
 
-	star1 = [*star1[8:],*star1[:8]]
+	star1 = star1[8:] + star1[:8]
+
 	sense.set_pixels(star1[:64])
 	time.sleep(0.1)
 
